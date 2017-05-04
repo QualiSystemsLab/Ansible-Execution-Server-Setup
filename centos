@@ -1,3 +1,5 @@
+Copy ExecutionServer and Runtime from the OVA appliance.
+
 The following commands were use to create the official appliance:
 
 1 yum groupinstall "GNOME Desktop" "Graphical Administration Tools"
